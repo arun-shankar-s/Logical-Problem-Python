@@ -2,17 +2,6 @@
 is equal to the product of all the elements of array except array[i]
 
 
-
-
-
-
-
-
-
-
-
-
-
 n = int(input("Enter The Size: "))
 arr = []
 answer=[]
